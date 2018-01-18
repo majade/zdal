@@ -17,6 +17,7 @@
     <file url="file://$PROJECT_DIR$/zdal-parser" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zdal-parser/src/main/java/com/alipay/zdal/parser/sql/dialect/mysql/visitor/MySqlASTVisitor.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/zdal-parser/src/main/java/com/alipay/zdal/parser/visitor/ZdalMySqlSchemaStatVisitor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/zdal-parser/src/test/java/com/alipay/zdal/parser/druid/bvt/sql/oracle/visitor/OracleSchemaStatVisitorTest2.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/zdal-rule" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zdal-test/src/test/java/com/alipay/zdal/test/ut/sqlparser/mysql/OnlineSQLTest2.java" charset="GBK" />
     <file url="PROJECT" charset="GBK" />

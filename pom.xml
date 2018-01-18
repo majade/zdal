@@ -15,7 +15,6 @@
 		<module>zdal-parser</module>
 		<module>zdal-rule</module>
 		<module>zdal-datasource</module>
-		<!--<module>zdal-test</module>-->
 	</modules>
 
 	<properties>

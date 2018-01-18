@@ -1,14 +1,13 @@
 package com.alipay.zdal.parser.druid.bvt.sql.oracle.visitor;
 
-import java.util.List;
-
-import junit.framework.Assert;
-import junit.framework.TestCase;
-
 import com.alipay.zdal.parser.sql.ast.SQLStatement;
 import com.alipay.zdal.parser.sql.dialect.oracle.parser.OracleStatementParser;
 import com.alipay.zdal.parser.sql.dialect.oracle.visitor.OracleSchemaStatVisitor;
 import com.alipay.zdal.parser.sql.stat.TableStat.Column;
+import junit.framework.Assert;
+import junit.framework.TestCase;
+
+import java.util.List;
 
 /**
  * 

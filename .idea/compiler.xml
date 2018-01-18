@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <wildcardResourcePatterns>
+      <entry name="?*.properties" />
+      <entry name="?*.xml" />
+      <entry name="?*.gif" />
+      <entry name="?*.png" />
+      <entry name="?*.jpeg" />
+      <entry name="?*.jpg" />
+      <entry name="?*.html" />
+      <entry name="?*.dtd" />
+      <entry name="?*.tld" />
+      <entry name="?*.ftl" />
+      <entry name="?*.ini" />
+      <entry name="?*.module" />
+      <entry name="?*.service" />
+      <entry name="?*.ds" />
+      <entry name="?*.bo" />
+      <entry name="?*.set" />
+      <entry name="?*.wvm" />
+      <entry name="?*.type" />
+      <entry name="?*.vm" />
+      <entry name="?*.conf" />
+      <entry name="?*.mo" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zdal-client" />
+        <module name="zdal-common" />
+        <module name="zdal-datasource" />
+        <module name="zdal-parser" />
+        <module name="zdal-rule" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="zdal-client" target="1.8" />
+      <module name="zdal-common" target="1.8" />
+      <module name="zdal-datasource" target="1.8" />
+      <module name="zdal-parent" target="1.8" />
+      <module name="zdal-parser" target="1.8" />
+      <module name="zdal-rule" target="1.8" />
+      <module name="zdal-test" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

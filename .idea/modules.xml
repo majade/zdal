@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/zdal-client/zdal.iml" filepath="$PROJECT_DIR$/zdal-client/zdal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zdal-client/zdal-client.iml" filepath="$PROJECT_DIR$/zdal-client/zdal-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zdal-common/zdal-common.iml" filepath="$PROJECT_DIR$/zdal-common/zdal-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zdal-datasource/zdal-datasource.iml" filepath="$PROJECT_DIR$/zdal-datasource/zdal-datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zdal-parent.iml" filepath="$PROJECT_DIR$/zdal-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zdal-parser/zdal-parser.iml" filepath="$PROJECT_DIR$/zdal-parser/zdal-parser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zdal-rule/zdal-rule.iml" filepath="$PROJECT_DIR$/zdal-rule/zdal-rule.iml" />
+    </modules>
+  </component>
+</project>
